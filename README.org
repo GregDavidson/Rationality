@@ -1,9 +1,3 @@
-#+TITLE: Defense Against The Dark Arts
-#+SUBTITLE: README
-#+OPTIONS: toc:nil
-#+OPTIONS: num:nil
-#+OPTIONS: date:nil
-#+OPTIONS: author:nil
 * Defense Against the Dark Arts of Rhetoric!
 
 ** Rhetoric is the method of The Dark Arts
@@ -11,10 +5,10 @@
 Power hierarchies are maintained by expert users of the Dark Arts who use
 [[https://en.wikipedia.org/wiki/Rhetoric][Rhetoric]] to suppress your powers of discernment and manipulate your emotions.
 People using the Dark Arts seek to turn you into
-- A Worker-Consumer Unit.
-- A Subject rather than a Citizen.
-- An NPC.
-- A Tool.
+- A Worker-Consumer Unit
+- A Subject, rather than a Citizen
+- An NPC
+- A Tool
 
 ** The Methods of Rationality are the Defense Against the Dark Arts!
 
@@ -22,7 +16,7 @@ The /Methods of Rationality/ are designed to
 - increase your ability to perceive what's going on
 - empower you to make your own choices
     - about your life
-    - and your future.
+    - about your future
 
 There are many ways of learning the Methods of Rationality. Traditionally
 learning the Methods of Rationality has started with studying psychology and
@@ -50,10 +44,10 @@ Frequently Asked Questions about HPMOR:
 - Do I have to be a Harry Potter Fan to "get" HPMOR? :: No you don't! However,
   for full enjoyment I recommend that you either watch [[https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)][the first Harry Potter
   Movie]] or read [[https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone][the first Harry Potter book]] before starting HPMOR.
-- Do I have to read all of HPMOR? :: Eliezer recommends that you read the first
-  ten chapters of HPMOR before deciding whether it's for you. If at that point
+- Do I have to read ALL of HPMOR? :: Eliezer recommends that you /read the first
+  ten chapters of HPMOR/ and then decide whether it's for you. If at that point
   you're not "into it", it's probably not the right vehicle for you to learn the
-  Methods of Rationality at this time of your life. There are other vehicles!
+  Methods of Rationality. Fortunately, there are other vehicles!
 
 ** Other Resources for Learning and Practicing the Methods of Rationality
 
@@ -64,12 +58,12 @@ resources which you can use to either start or continue your journey.
 The website [[https://www.lesswrong.com][lesswrong.com]] is full of wonderful resources for learning and
 practicing the Methods of Rationality, including [[https://www.lesswrong.com/tag/sequences][the Sequences]], a coherent
 introduction to Rationality, now also available as part of (another) book by
-Eliezer Yudknowsky, [[https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies][Rationality: From AI To Zombies]].
+Eliezer Yudkowsky, [[https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies][Rationality: From AI To Zombies]].
 
 There are a number of excellent resources at the [[https://gregdavidson.github.io/loel][League of Extraordinary
 Learners]] webpage on [[https://gregdavidson.github.io/loel/loel-media.html][Extraordinary Learners: Books, Texts, Presentations, etc.]]
 
-** This is the beginning of the LOEL Curriculum on the DATDA
+** This is the beginning of the LOEL Curriculum on DATDA
 
 If you like the LOEL approach as described on our [[https://github.com/GregDavidson/loel][LOEL Github Repository]] and the
 [[https://gregdavidson.github.io/loel][Original LOEL Website]] and you like the idea of a powerful course on the Methods
