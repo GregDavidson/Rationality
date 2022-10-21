@@ -1,5 +1,7 @@
 * Defense Against the Dark Arts of Rhetoric!
 
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel][League of Extraordinary Learners]].
+
 ** Rhetoric is the method of The Dark Arts
 
 Power hierarchies are maintained by expert users of the Dark Arts who use
