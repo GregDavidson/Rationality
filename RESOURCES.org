@@ -1,0 +1,46 @@
+* Rationality Resources
+
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel][League of Extraordinary Learners]].
+
+Be sure to see our additional
+- [[https://gregdavidson.github.io/loel/loel-media.html][Resources for Extraordinary Learners]]
+
+What excellent and strategic materials on Rationality should we add to this
+collection?
+
+** Videos
+
+David Deutsch explains where knowledge comes from and how science works in this
+- [[http://www.ted.com/talks/david_deutsch_a_new_way_to_explain_explanation.html][TED Talk: A New Way to Explain Explanation]]
+
+SisyphusRedeemed
+- [[https://youtu.be/E8V8rtdXnLA][You Have No Idea How Wrong You Are]]
+
+Jonathan Haidt
+- [[https://youtu.be/8SOQduoLgRw][The moral roots of liberals and conservatives]]
+
+Veritasium: How To Update Your Beliefs Systematically with
+- [[https://youtu.be/R13BD8qKeTg][Bayes’ Theorem ]]
+
+3Blue1Brown: The medical test paradox, and
+- [[https://youtu.be/lG4VkPoG3ko][redesigning Bayes' rule]]
+
+** Websites
+
+LessWrong
+- [[https://www.lesswrong.com/posts/bJ2haLkcGeLtTWaD5/welcome-to-lesswrong][Welcome to LessWrong!]]
+
+RationalWiki
+- [[https://rationalwiki.org/wiki/Main_Page][RationalWiki Main Page]]
+
+Harry Potter and the Methods of Rationality
+- [[https://hpmor.com/][HPMOR Resources]]
+- [[https://hpmorpodcast.com/][HPMOR Podcast]]
+
+** Books
+
+Eliezer Yudkowsky
+- [[https://www.lesswrong.com/rationality][Rationality: A-Z]]
+
+Steven Pinker
+- [[https://stevenpinker.com/publications/rationality-what-it-why-it-seems-so-scarce-and-why-it-matters][Rationality: What It Is, Why It Seems Scarce, Why It Matters]]
