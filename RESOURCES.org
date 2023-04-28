@@ -1,6 +1,6 @@
 * Rationality Resources
 
-A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel][League of Extraordinary Learners]].
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
 Be sure to see our additional
 - [[https://gregdavidson.github.io/loel/loel-media.html][Resources for Extraordinary Learners]]

@@ -1,6 +1,6 @@
 * Defense Against the Dark Arts of Rhetoric!
 
-A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel][League of Extraordinary Learners]].
+A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
 
 ** Rhetoric is the method of The Dark Arts
 
@@ -67,7 +67,7 @@ Learners]] webpage on [[https://gregdavidson.github.io/loel/loel-media.html][Ext
 
 ** This is the beginning of the LOEL Curriculum on DATDA
 
-If you like the LOEL approach as described on our [[https://github.com/GregDavidson/loel][LOEL Github Repository]] and the
+If you like the LOEL approach as described on our [[https://github.com/GregDavidson/loel#readme][LOEL Github Repository]] and the
 [[https://gregdavidson.github.io/loel][Original LOEL Website]] and you like the idea of a powerful course on the Methods
 of Rationality, please consider joining the team developing this course! You can
 begin by getting a Github account and submitting an Issue to the LOEL Repository
