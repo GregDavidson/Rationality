@@ -106,10 +106,6 @@ Frequently Asked Questions about HPMOR:
 
 ** Other Resources for Learning and Practicing the Methods of Rationality
 
-I hope that you found HPMOR a great start on your journey to learn and practice
-the Methods of Rationality! In any case, here are pointers to a number of
-resources which you can use to either start or continue your journey.
-
 The website [[https://www.lesswrong.com][lesswrong.com]] is full of wonderful resources for learning and
 practicing the Methods of Rationality, including [[https://www.lesswrong.com/tag/sequences][the Sequences]], a coherent
 introduction to Rationality, now also available as part of (another) book by
