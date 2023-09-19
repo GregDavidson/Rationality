@@ -4,7 +4,26 @@ A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org]
 
 ** What Rationality Provides
 
+Rationality is the art of
+- making decisions that are in our best interest
+- operating such that we produce the best outcomes for what we care about
+
+** What Rationality Needs and Doesn't Provide
+
+Rationality does /NOT/ direct us to
+- the truth
+- what we should care about
+
+For the art of /discovering our best interests/ and /what we care about/
+- see [[https://github.com/TouchPuuhonua/Deep-Rationality][Deep Rationality]]
+- Rationality without Deep Rationality is irrational!
+
+Rationality and Deep Rationality work together!
+
+** Rationality Distinctions
+
 The distinctions of /Rationality/ are extremely valuable
+- Discovering what Reality offers
 - Using valid reasoning about important issues
 - Detecting Accidental and Malicious Fallacies
 - and so forth
@@ -22,14 +41,6 @@ that there's nothing in either which can help us find or form
 The studying of Rationality is directed by our intellect with an awareness of
 our emotions.  It is about the /integrity of our thinking/.
 
-Rationality is the art of
-- making decisions that are in our best interest
-- operating such that we produce the best outcomes for what we care about
-
-For the art of /discovering our best interests/ and /what we care about/
-- see [[https://github.com/TouchPuuhonua/Deep-Rationality][Deep Rationality]]
-- Rationality without Deep Rationality is irrational@
-
 We face many challenges to acting Rationally, including
 - Lack of awareness of our irrationality
 - Insufficient Practice in the Art of Rationality
@@ -37,17 +48,24 @@ We face many challenges to acting Rationally, including
 
 ** Defense Against the Dark Arts of Rhetoric!
 
-** Rhetoric is the method of The Dark Arts
-
-Power hierarchies are maintained by expert users of the Dark Arts who use
-[[https://en.wikipedia.org/wiki/Rhetoric][Rhetoric]] to suppress your powers of discernment and manipulate your emotions.
-People using the Dark Arts seek to turn you into
+Power hierarchies are maintained by people who skillfully use [[https://en.wikipedia.org/wiki/Rhetoric][Rhetoric]] to
+suppress your powers of discernment and manipulate your emotions. They are
+trying to use you for their purposes. In their eyes you are
 - A Worker-Consumer Unit
 - A Subject, rather than a Citizen
 - An NPC
 - A Tool
 
-** The Methods of Rationality are the Defense Against the Dark Arts!
+This is not a new understanding. The More than 2000 years ago, the great
+philosopher [[https://en.wikipedia.org/wiki/Socrates][Socrates]] taught about the misuse of [[https://en.wikipedia.org/wiki/Rhetoric][Rhetoric]] to persuade people to
+believe things regardless of the truth of the matter.
+
+Unethical use of Rhetoric is standard in
+- Political Speech
+- Commercial Marketing
+- Where else in our world?
+
+*** The Methods of Rationality are the Defense Against the Dark Arts!
 
 The /Methods of Rationality/ are designed to
 - increase your ability to perceive what's going on
@@ -62,9 +80,9 @@ logic and installing the methods into your life through practice.
 Further down in /This Document/ you'll find a list of Defense Against the Dark
 Arts resources.  Let's begin with an especially awesome resource: HPMOR!
 
-** HPMOR: Harry Potter and the Methods of Rationality
+**** HPMOR: Harry Potter and the Methods of Rationality
 
-You can begin your study of the Methods of Rationality enjoyably and powerfully
+You can begin your study of the /Methods of Rationality/ enjoyably and powerfully
 with [[http://www.hpmor.com][Harry Potter and the Methods of Rationality]], often simply called HPMOR.
 
 Frequently Asked Questions about HPMOR:
@@ -74,7 +92,7 @@ Frequently Asked Questions about HPMOR:
 - Is there a podcast? :: Yes, [[https://hpmorpodcast.com][hpmorpodcast.com]] or [[https://podcasts.apple.com/us/podcast/podcast-the-methods-of-rationality-podcast/id431784580][HPMOR itunes Podcast]].
 - Is it available in other languages? :: You'll find translations into at least
   15 languages at [[http://www.hpmor.com/info][hpmor.com/info]]
-- One of those links is bad :: Check [[http://www.hpmor.com][hpmor.com]] for the latest content and links.
+- If any of those links is bad :: Check [[http://www.hpmor.com][hpmor.com]] for the latest content and links.
 - Where did it come from? :: It was written by [[https://www.yudkowsky.net][Eliezer S. Yudkowsky]] who posted
   it to [[https://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality][the online FanFiction website]] as he wrote it from 28 February 2010 to 14
   March 2015.
@@ -97,8 +115,12 @@ practicing the Methods of Rationality, including [[https://www.lesswrong.com/tag
 introduction to Rationality, now also available as part of (another) book by
 Eliezer Yudkowsky, [[https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies][Rationality: From AI To Zombies]].
 
-There are a number of excellent resources at the [[https://gregdavidson.github.io/loel][League of Extraordinary
-Learners]] webpage on [[https://gregdavidson.github.io/loel/loel-media.html][Extraordinary Learners: Books, Texts, Presentations, etc.]]
+There are a number of excellent resources at the [[https://gregdavidson.github.io/loel][LOEL]] webpage
+- [[https://gregdavidson.github.io/loel/loel-media.html][Extraordinary Learners: Books, Texts, Presentations, etc.]]
+
+An excellent new book on Rationality is
+- [[https://stevenpinker.com/publications/rationality-what-it-why-it-seems-so-scarce-and-why-it-matters][Rationality: What It Is, Why It Seems Scarce, Why It Matters]]
+- by the incomparable [[https://en.wikipedia.org/wiki/Steven_Pinker][Steven Pinker]]
 
 ** This is the beginning of the LOEL Curriculum on DATDA
 
