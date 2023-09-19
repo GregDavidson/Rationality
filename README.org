@@ -10,8 +10,14 @@ Rationality is the art of
 
 ** What Rationality Needs and Doesn't Provide
 
-Rationality does /NOT/ direct us to
+Study of Rationality and Mathematical Logic which it is based on will reveal
+that there's nothing in either which can help us find or form
 - the truth
+- our goals
+- our values
+- our life purpose
+
+Rationality does /NOT/ direct us to
 - what we should care about
 
 For the art of /discovering our best interests/ and /what we care about/
@@ -31,12 +37,6 @@ The distinctions of /Rationality/ are extremely valuable
 Rationality provides tools for determining if a reasoning process is valid or
 invalid and whether, given a degree of confidence in the truth of the premises,
 what degree of confidence would be justified in the conclusions.
-
-Study of Rationality and Mathematical Logic which it is based on will reveal
-that there's nothing in either which can help us find or form
-- our goals
-- our values
-- our life purpose
 
 The studying of Rationality is directed by our intellect with an awareness of
 our emotions.  It is about the /integrity of our thinking/.
@@ -71,10 +71,8 @@ defending against clever and malicious use of Rhetoric.
 *** The Methods of Rationality and HPMOR
 
 The /Methods of Rationality/ are designed to
-- increase your ability to perceive what's going on
-- empower you to make your own choices
-      - about your life
-      - about your future
+- Increase your ability to perceive what's going on
+- Empower you to make good choices
 - Detect when you're been fooled
       - By malicious others
       - By confusing situations
@@ -101,6 +99,8 @@ There are a number of excellent resources at the [[https://gregdavidson.github.i
 An excellent new book on Rationality is
 - [[https://stevenpinker.com/publications/rationality-what-it-why-it-seems-so-scarce-and-why-it-matters][Rationality: What It Is, Why It Seems Scarce, Why It Matters]]
 - by the incomparable [[https://en.wikipedia.org/wiki/Steven_Pinker][Steven Pinker]]
+
+See our [[file:RESOUCES.org][Full List of Resources]] and please feel free to recommend others!
 
 ** This is the beginning of the LOEL Curriculum on Rationality
 
