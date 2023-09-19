@@ -118,7 +118,7 @@ An excellent new book on Rationality is
 - [[https://stevenpinker.com/publications/rationality-what-it-why-it-seems-so-scarce-and-why-it-matters][Rationality: What It Is, Why It Seems Scarce, Why It Matters]]
 - by the incomparable [[https://en.wikipedia.org/wiki/Steven_Pinker][Steven Pinker]]
 
-** This is the beginning of the LOEL Curriculum on DATDA
+** This is the beginning of the LOEL Curriculum on Rationality
 
 If you like the LOEL approach as described on our [[https://github.com/GregDavidson/loel#readme][LOEL Github Repository]] and the
 [[https://gregdavidson.github.io/loel][Original LOEL Website]] and you like the idea of a powerful course on the Methods
