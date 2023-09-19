@@ -1,6 +1,41 @@
-* Defense Against the Dark Arts of Rhetoric!
+* Rationality
 
 A [[https://github.com/GregDavidson/loel/blob/main/Devel/creating-curricula.org][Curriculum]] of the [[https://github.com/GregDavidson/loel#readme][League of Extraordinary Learners]].
+
+** What Rationality Provides
+
+The distinctions of /Rationality/ are extremely valuable
+- Using valid reasoning about important issues
+- Detecting Accidental and Malicious Fallacies
+- and so forth
+
+Rationality provides tools for determining if a reasoning process is valid or
+invalid and whether, given a degree of confidence in the truth of the premises,
+what degree of confidence would be justified in the conclusions.
+
+Study of Rationality and Mathematical Logic which it is based on will reveal
+that there's nothing in either which can help us find or form
+- our goals
+- our values
+- our life purpose
+
+The studying of Rationality is directed by our intellect with an awareness of
+our emotions.  It is about the /integrity of our thinking/.
+
+Rationality is the art of
+- making decisions that are in our best interest
+- operating such that we produce the best outcomes for what we care about
+
+For the art of /discovering our best interests/ and /what we care about/
+- see [[https://github.com/TouchPuuhonua/Deep-Rationality][Deep Rationality]]
+- Rationality without Deep Rationality is irrational@
+
+We face many challenges to acting Rationally, including
+- Lack of awareness of our irrationality
+- Insufficient Practice in the Art of Rationality
+- Interference from Rhetorical Attacks
+
+** Defense Against the Dark Arts of Rhetoric!
 
 ** Rhetoric is the method of The Dark Arts
 
